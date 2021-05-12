@@ -15,4 +15,4 @@
 - pca.py implementation of PCA using SVD and eigen-value decomposition
 - pinv.py implementation of Moore Penrose Pseudo Inverse
 
--HW_Lieberherr.pdf only page 3 and 6 are relevant and contain the ouput (plots)
+- HW_Lieberherr.pdf only page 3 and 6 are relevant and contain the ouput (plots)
