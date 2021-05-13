@@ -11,5 +11,6 @@ The code can be found in final_submission_task3.py. It can be run as it, provide
 ### Feature transformation
 We have categorical features, hence a data transformation was defined in which for each position all possible amino acids (20 different ones) are taken and one hot encode the sequence.
 Finally, the feature representation that we will use for training consists of 80 features respesenting the 20 amino acids that might be at each position and encoding as 1 if the correct amino acid is given at that position, 0 otherwise.
-For prediction, a multi-layer perceptron (MLP) Classifier which uses the log-loss function and stochastic gradient descent.
-By using GridSearchCV, the best regularization parameter was deduced because we want to avoid overfitting.
+### Prediction
+A multi-layer perceptron (MLP) Classifier which has the log-loss function and stochastic gradient descent inbuilt, is used for predictions.
+Using GridSearchCV, the best regularization parameter was deduced because we want to avoid overfitting.
