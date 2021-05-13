@@ -1,4 +1,4 @@
-# Depository of ML Coding experiences 
+# Selection of ML Coding experiences 
 Here is a selection of Homework assignements/Projects of two different courses at ETH currently going on in the Spring Semester 2021.
 
 ## Introduction to Machine Learning (IML) course 
