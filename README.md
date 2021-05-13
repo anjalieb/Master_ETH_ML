@@ -15,6 +15,7 @@ This course gives a wide overview into Machine Learning techniques:
 - Bayesian approaches to unsupervised learning (Gaussian mixtures, EM)
 
 ### Projects in IML
+The Project work in IML is a team work of 2 students. I collaborated with my fellow student for the following tasks.
 - Task 1b
 - Task 2
 - Task 3
@@ -28,5 +29,6 @@ This course presents advanced topics in data mining and its applications, it is 
 - Graph Mining
 
 ### Projects in DM2
+The project work in DM2 is an individual work
 - DM2_PCA_SVD
 - DM2_KernelPCA_DataImputationSVD
